@@ -1,0 +1,15 @@
+{
+    "name": "hysunli/model",
+    "authors": [
+        {
+            "name": "hysunli",
+            "email": "1209241788@qq.com"
+        }
+    ],
+    "require": {},
+	"autoload":{
+		"psr-4":{
+			"hysunli\\model\\":""
+		}
+	}
+}
